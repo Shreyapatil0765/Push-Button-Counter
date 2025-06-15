@@ -15,9 +15,9 @@
 ##This project involves creating a simple push button counter using an Arduino Uno, a push button, and a 16x2 I2C LCD display. The goal is to increment a counter each time the button is pressed and display the updated count on the LCD.
 
 Project Components:
-Arduino Uno
-16x2 I2C LCD display
-Push button
+Arduino Uno,
+16x2 I2C LCD display,
+Push button,
 Breadboard and jumper wires
 
 Circuit Description:
