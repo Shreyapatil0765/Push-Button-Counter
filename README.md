@@ -1,10 +1,15 @@
 # Push-Button-Counter
 
 *Company*: CODTECH IT SOLUTIONS
+
 *NAME*: SHREYA PATIL
+
 *INTERN ID*: CT04DF2846
+
 *DOMAIN*: EMBEDDED SYSTEMS
+
 *DURATION*: 4 WEEKS
+
 *MENTOR*: NEELA SANTOSH
 
 ##This project involves creating a simple push button counter using an Arduino Uno, a push button, and a 16x2 I2C LCD display. The goal is to increment a counter each time the button is pressed and display the updated count on the LCD.
