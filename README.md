@@ -40,3 +40,6 @@ Mechanical buttons do not generate a clean digital signal when pressed. They ten
 
 Future enhancements :
 This project can be extended by using multiple buttons (increment and decrement), EEPROM to store the count, or sound feedback using a buzzer.
+
+##Output :
+![Image](https://github.com/user-attachments/assets/b0597ecf-fde8-4bce-8072-bf5b65c8313a)
