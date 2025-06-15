@@ -42,4 +42,4 @@ Future enhancements :
 This project can be extended by using multiple buttons (increment and decrement), EEPROM to store the count, or sound feedback using a buzzer.
 
 ##Output :
-![Image](https://github.com/user-attachments/assets/b0597ecf-fde8-4bce-8072-bf5b65c8313a)
+![Image](https://github.com/user-attachments/assets/20ddef95-b4bd-4483-893b-6d4c6a73bacb)
